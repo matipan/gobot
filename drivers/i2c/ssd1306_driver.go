@@ -4,7 +4,7 @@ import (
 	"errors"
 	"image"
 
-	"gobot.io/x/gobot"
+	"github.com/matipan/gobot"
 )
 
 const ssd1306I2CAddress = 0x3c

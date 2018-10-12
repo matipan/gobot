@@ -7,9 +7,9 @@ package main
 import (
 	"time"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/drivers/i2c"
-	"gobot.io/x/gobot/platforms/intel-iot/joule"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/drivers/i2c"
+	"github.com/matipan/gobot/platforms/intel-iot/joule"
 )
 
 func main() {

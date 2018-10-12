@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"gobot.io/x/gobot"
+	"github.com/matipan/gobot"
 )
 
 const grovePiAddress = 0x04

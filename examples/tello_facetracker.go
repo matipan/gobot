@@ -25,9 +25,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/platforms/dji/tello"
-	"gobot.io/x/gobot/platforms/joystick"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/platforms/dji/tello"
+	"github.com/matipan/gobot/platforms/joystick"
 	"gocv.io/x/gocv"
 )
 

@@ -10,8 +10,8 @@ import (
 	"os"
 
 	"github.com/hybridgroup/mjpeg"
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/api"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/api"
 	"gocv.io/x/gocv"
 )
 

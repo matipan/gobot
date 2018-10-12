@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync"
 
-	"gobot.io/x/gobot"
+	"github.com/matipan/gobot"
 
 	blelib "github.com/go-ble/ble"
 	"github.com/pkg/errors"

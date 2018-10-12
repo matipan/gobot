@@ -5,10 +5,10 @@
 package main
 
 import (
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/drivers/i2c"
-	"gobot.io/x/gobot/platforms/dexter/gopigo3"
-	"gobot.io/x/gobot/platforms/raspi"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/drivers/i2c"
+	"github.com/matipan/gobot/platforms/dexter/gopigo3"
+	"github.com/matipan/gobot/platforms/raspi"
 )
 
 func main() {

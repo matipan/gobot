@@ -5,8 +5,8 @@
 package main
 
 import (
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/platforms/opencv"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/platforms/opencv"
 	"gocv.io/x/gocv"
 )
 

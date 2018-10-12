@@ -3,8 +3,8 @@ package firmata
 import (
 	"io"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/platforms/ble"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/platforms/ble"
 )
 
 const (

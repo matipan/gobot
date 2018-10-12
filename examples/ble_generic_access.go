@@ -17,8 +17,8 @@ import (
 	"fmt"
 	"os"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/platforms/ble"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/platforms/ble"
 )
 
 func main() {

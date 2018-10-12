@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/gobottest"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/gobottest"
 	"gocv.io/x/gocv"
 )
 

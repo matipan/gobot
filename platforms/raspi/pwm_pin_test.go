@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	"gobot.io/x/gobot/gobottest"
-	"gobot.io/x/gobot/sysfs"
+	"github.com/matipan/gobot/gobottest"
+	"github.com/matipan/gobot/sysfs"
 )
 
 var _ sysfs.PWMPinner = (*PWMPin)(nil)

@@ -5,9 +5,9 @@
 package main
 
 import (
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/platforms/keyboard"
-	"gobot.io/x/gobot/platforms/mqtt"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/platforms/keyboard"
+	"github.com/matipan/gobot/platforms/mqtt"
 )
 
 func main() {

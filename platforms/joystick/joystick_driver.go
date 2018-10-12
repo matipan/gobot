@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/veandco/go-sdl2/sdl"
-	"gobot.io/x/gobot"
+	"github.com/matipan/gobot"
 )
 
 const (

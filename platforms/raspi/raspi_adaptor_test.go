@@ -9,12 +9,12 @@ import (
 	"strconv"
 	"sync"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/drivers/gpio"
-	"gobot.io/x/gobot/drivers/i2c"
-	"gobot.io/x/gobot/drivers/spi"
-	"gobot.io/x/gobot/gobottest"
-	"gobot.io/x/gobot/sysfs"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/drivers/gpio"
+	"github.com/matipan/gobot/drivers/i2c"
+	"github.com/matipan/gobot/drivers/spi"
+	"github.com/matipan/gobot/gobottest"
+	"github.com/matipan/gobot/sysfs"
 )
 
 // make sure that this Adaptor fullfills all the required interfaces

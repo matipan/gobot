@@ -6,10 +6,10 @@ import (
 	"strings"
 	"testing"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/drivers/gpio"
-	"gobot.io/x/gobot/drivers/i2c"
-	"gobot.io/x/gobot/gobottest"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/drivers/gpio"
+	"github.com/matipan/gobot/drivers/i2c"
+	"github.com/matipan/gobot/gobottest"
 )
 
 var _ gobot.Adaptor = (*Adaptor)(nil)

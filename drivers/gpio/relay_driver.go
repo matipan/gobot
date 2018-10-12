@@ -1,6 +1,6 @@
 package gpio
 
-import "gobot.io/x/gobot"
+import "github.com/matipan/gobot"
 
 // RelayDriver represents a digital relay
 type RelayDriver struct {

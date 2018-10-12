@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/drivers/i2c"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/drivers/i2c"
 )
 
 // ErrConnection is the error resulting of a connection error with the digispark

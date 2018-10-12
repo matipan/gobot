@@ -7,8 +7,8 @@ package main
 import (
 	"fmt"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/platforms/keyboard"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/platforms/keyboard"
 )
 
 func main() {

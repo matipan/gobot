@@ -7,10 +7,10 @@ package main
 import (
 	"time"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/api"
-	"gobot.io/x/gobot/drivers/gpio"
-	"gobot.io/x/gobot/platforms/intel-iot/edison"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/api"
+	"github.com/matipan/gobot/drivers/gpio"
+	"github.com/matipan/gobot/platforms/intel-iot/edison"
 )
 
 func main() {

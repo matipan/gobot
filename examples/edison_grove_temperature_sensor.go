@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"time"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/drivers/aio"
-	"gobot.io/x/gobot/platforms/intel-iot/edison"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/drivers/aio"
+	"github.com/matipan/gobot/platforms/intel-iot/edison"
 )
 
 func main() {

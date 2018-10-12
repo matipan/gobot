@@ -9,12 +9,12 @@ import (
 	"testing"
 	"time"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/drivers/aio"
-	"gobot.io/x/gobot/drivers/gpio"
-	"gobot.io/x/gobot/drivers/i2c"
-	"gobot.io/x/gobot/gobottest"
-	"gobot.io/x/gobot/platforms/firmata/client"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/drivers/aio"
+	"github.com/matipan/gobot/drivers/gpio"
+	"github.com/matipan/gobot/drivers/i2c"
+	"github.com/matipan/gobot/gobottest"
+	"github.com/matipan/gobot/platforms/firmata/client"
 )
 
 // make sure that this Adaptor fullfills all the required interfaces

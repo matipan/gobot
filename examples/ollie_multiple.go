@@ -16,10 +16,10 @@ import (
 	"os"
 	"time"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/api"
-	"gobot.io/x/gobot/platforms/ble"
-	"gobot.io/x/gobot/platforms/sphero/ollie"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/api"
+	"github.com/matipan/gobot/platforms/ble"
+	"github.com/matipan/gobot/platforms/sphero/ollie"
 )
 
 func NewSwarmBot(port string) *gobot.Robot {

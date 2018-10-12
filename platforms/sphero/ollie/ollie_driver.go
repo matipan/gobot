@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/platforms/ble"
-	"gobot.io/x/gobot/platforms/sphero"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/platforms/ble"
+	"github.com/matipan/gobot/platforms/sphero"
 )
 
 // Driver is the Gobot driver for the Sphero Ollie robot

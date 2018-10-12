@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"time"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/drivers/i2c"
-	"gobot.io/x/gobot/platforms/beaglebone"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/drivers/i2c"
+	"github.com/matipan/gobot/platforms/beaglebone"
 )
 
 func main() {

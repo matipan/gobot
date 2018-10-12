@@ -3,9 +3,9 @@ package spi
 import (
 	"testing"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/drivers/aio"
-	"gobot.io/x/gobot/gobottest"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/drivers/aio"
+	"github.com/matipan/gobot/gobottest"
 )
 
 var _ gobot.Driver = (*MCP3208Driver)(nil)

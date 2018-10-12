@@ -15,8 +15,8 @@ import (
 	"os"
 	"time"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/platforms/mqtt"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/platforms/mqtt"
 )
 
 func main() {

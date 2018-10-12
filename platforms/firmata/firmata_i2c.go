@@ -1,8 +1,8 @@
 package firmata
 
 import (
-	//	"gobot.io/x/gobot/drivers/i2c"
-	"gobot.io/x/gobot/platforms/firmata/client"
+	//	"github.com/matipan/gobot/drivers/i2c"
+	"github.com/matipan/gobot/platforms/firmata/client"
 )
 
 type firmataI2cConnection struct {

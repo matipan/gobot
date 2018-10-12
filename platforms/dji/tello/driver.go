@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"gobot.io/x/gobot"
+	"github.com/matipan/gobot"
 )
 
 const (

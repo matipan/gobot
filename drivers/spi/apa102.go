@@ -3,7 +3,7 @@ package spi
 import (
 	"image/color"
 
-	"gobot.io/x/gobot"
+	"github.com/matipan/gobot"
 )
 
 // APA102Driver is a driver for the APA102 programmable RGB LEDs

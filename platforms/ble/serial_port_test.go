@@ -3,7 +3,7 @@ package ble
 import (
 	"testing"
 
-	"gobot.io/x/gobot/gobottest"
+	"github.com/matipan/gobot/gobottest"
 )
 
 func initTestBLESerialPort() *SerialPort {

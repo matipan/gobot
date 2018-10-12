@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"os"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/drivers/aio"
-	"gobot.io/x/gobot/platforms/firmata"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/drivers/aio"
+	"github.com/matipan/gobot/platforms/firmata"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"time"
 
-	"gobot.io/x/gobot"
+	"github.com/matipan/gobot"
 )
 
 const pca9685Address = 0x40

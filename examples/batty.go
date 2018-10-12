@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"time"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/api"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/api"
 )
 
 func main() {

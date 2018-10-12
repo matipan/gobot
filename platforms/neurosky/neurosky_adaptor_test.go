@@ -7,8 +7,8 @@ import (
 	"sync"
 	"testing"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/gobottest"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/gobottest"
 )
 
 var _ gobot.Adaptor = (*Adaptor)(nil)

@@ -3,7 +3,7 @@ package gobot
 import (
 	"testing"
 
-	"gobot.io/x/gobot/gobottest"
+	"github.com/matipan/gobot/gobottest"
 )
 
 func TestCommaner(t *testing.T) {

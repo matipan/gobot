@@ -11,9 +11,9 @@ import (
 	"runtime"
 	"time"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/platforms/opencv"
-	"gobot.io/x/gobot/platforms/parrot/ardrone"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/platforms/opencv"
+	"github.com/matipan/gobot/platforms/parrot/ardrone"
 	"gocv.io/x/gocv"
 )
 

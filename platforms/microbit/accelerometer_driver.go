@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"encoding/binary"
 
-	"gobot.io/x/gobot"
-	"gobot.io/x/gobot/platforms/ble"
+	"github.com/matipan/gobot"
+	"github.com/matipan/gobot/platforms/ble"
 )
 
 // AccelerometerDriver is the Gobot driver for the Microbit's built-in accelerometer

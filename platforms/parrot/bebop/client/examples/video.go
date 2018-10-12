@@ -25,7 +25,7 @@ import (
 	"os/exec"
 	"time"
 
-	"gobot.io/x/gobot/platforms/parrot/bebop/client"
+	"github.com/matipan/gobot/platforms/parrot/bebop/client"
 )
 
 func main() {

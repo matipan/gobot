@@ -3,7 +3,7 @@ package keyboard
 import (
 	"testing"
 
-	"gobot.io/x/gobot/gobottest"
+	"github.com/matipan/gobot/gobottest"
 )
 
 func TestParseSpace(t *testing.T) {

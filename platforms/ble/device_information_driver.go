@@ -3,7 +3,7 @@ package ble
 import (
 	"bytes"
 
-	"gobot.io/x/gobot"
+	"github.com/matipan/gobot"
 )
 
 // DeviceInformationDriver represents the Device Information Service for a BLE Peripheral

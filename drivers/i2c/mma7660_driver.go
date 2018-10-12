@@ -1,7 +1,7 @@
 package i2c
 
 import (
-	"gobot.io/x/gobot"
+	"github.com/matipan/gobot"
 )
 
 const mma7660Address = 0x4c
